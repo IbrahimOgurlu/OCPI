@@ -7,11 +7,13 @@ Bu protokol sayesinde:
 - Faturalama ve uzaktan başlatma/durdurma gibi işlemler desteklenir.
 - Roaming (farklı ağlar arasında geçiş) kolaylaştırılır.
 
+
   Özellikler
 - OCPI 2.3.0 standardına uygun REST API geliştirmesi
 - Lokasyon, CDR, Tarife, Enerji, Credentials gibi OCPI modüllerinin implementasyonu
 - ASP.NET Core Web API altyapısı
 - InMemoryDatabase ile örnek veri yönetimi
+
 
   Kullanılan Teknolojiler
 - ASP.NET Core 7.0
