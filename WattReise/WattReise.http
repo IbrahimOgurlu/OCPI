@@ -1,0 +1,6 @@
+@WattReise_HostAddress = http://localhost:5282
+
+GET {{WattReise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
