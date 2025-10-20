@@ -40,7 +40,6 @@ Elektrikli araç ekosistemi hızla büyürken, farklı şarj ağı operatörleri
 -   Backend: C# 12, ASP.NET Core, .NET 8
 -   Framework: Entity Framework Core 8
 -   Veritabanı: PostgreSQL / SQL Server / SQLite
--   Mimari: Clean Architecture / CQRS Pattern (Eğer kullandıysanız ekleyebilirsiniz)
 -   Containerization: Docker, Docker Compose
 -   API Dokümantasyonu: Swashbuckle (Swagger)
 -   Loglama: Serilog
