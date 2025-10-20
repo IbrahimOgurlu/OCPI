@@ -54,3 +54,5 @@ Aşağıda temel OCPI modülleri için birkaç örnek endpoint bulunmaktadır.
 | `'GET' | '/ocpi/2.2.1/tariffs'                   | Geçerli tüm ücret tarifelerini listeler.                |
 | 'PUT'  | '/ocpi/2.2.1/cdr/{cdr_id}'              | Yeni bir şarj detayı kaydı (CDR) gönderir.              |
 
+
+
