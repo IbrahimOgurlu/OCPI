@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "MovNcWyOatc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\source\\repos\\OCPI\\OCPI.ServiceDefaults\\WattReise.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\source\\repos\\OCPI\\OCPI.ServiceDefaults\\ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
@@ -54,4 +54,5 @@
     "C:\\Users\\ibrah\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
   ],
   "logs": []
+
 }
