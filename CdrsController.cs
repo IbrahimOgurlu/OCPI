@@ -38,4 +38,4 @@ namespace OCPI.Controllers;
             return cdr != null ? Ok(cdr) : NotFound();
         }
     }
-//API üzerinden CDR verilerini yöneten controller.
+
