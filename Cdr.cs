@@ -43,4 +43,5 @@ namespace OCPI.Models;
         public string ContractId { get; set; }
     }
 
-//Bir şarj oturumunun detaylarını (başlangıç, bitiş, tüketilen enerji, maliyet vb.) tutan model sınıfı.
+
+
