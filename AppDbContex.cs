@@ -12,4 +12,4 @@ namespace OCPI.Data
     }
 }
 
-//Modellerin veritabanı tablolarına eşlenmesini sağlar.
+
